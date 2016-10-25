@@ -4,7 +4,7 @@
 
 下图是open-falcon的整体架构，模块比较多，可以看完整篇文章介绍再回头看这个架构图。
 注：图中的memcache并未使用，uic模块现已更名为fe
-![ image ](https://github.com/zhangkunnops/open-falcon-doc/blob/master/image/open-falcon-architecture.png)
+![image](image/open-falcon-architecture.png)
 
 2.主要组件
 
