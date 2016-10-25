@@ -4,7 +4,7 @@
 
 下图是open-falcon的整体架构，模块比较多，可以看完整篇文章介绍再回头看这个架构图。
 注：图中的memcache并未使用，uic模块现已更名为fe
-![image](https://github.com/zhangkunnops/open-falcon-doc/blob/master/image/open-falcon%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
+![ image ](https://github.com/zhangkunnops/open-falcon-doc/blob/master/image/open-falcon-architecture.png)
 
 2.主要组件
 
@@ -107,5 +107,5 @@ nodata的作用就是在发现监控数据未上报时，由nodata主动上报�
 
 简化的falcon基本工作流程可描述如下图所示：
 
-![image](https://github.com/zhangkunnops/open-falcon-doc/blob/master/image/open-falcon%E7%AE%80%E5%8C%96%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+![image](https://github.com/zhangkunnops/open-falcon-doc/blob/master/image/open-falcon-simple.png)
 ps：更加详细的流程可以去看顶部的详细架构图
